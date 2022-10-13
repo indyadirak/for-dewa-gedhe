@@ -10,8 +10,6 @@ int main()
     cin>>nama;
     cout<<"input npm  = ";
     cin>>npm;
-    cout<<"ipk          = ";
-    cin>>ipk;
     cout<<"input gender = ";
     cin>>gender;
 
